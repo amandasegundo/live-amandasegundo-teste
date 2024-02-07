@@ -60,6 +60,8 @@ Participei do podcast [@podcastspamtalk](https://www.instagram.com/podcastspamta
 
 [Live completa aqui](https://www.instagram.com/p/CiRAS7oIeR7/?utm_source=ig_web_copy_link)
 
+<img src="./images/tidadepressao/amanda-no-podcast-do-ti-da-depressao.png"/>
+
 ## Referências em Liguagens
 
 ### GO
