@@ -54,7 +54,7 @@ Para o perfil [@amandasegundo.dev](https://www.instagram.com/amandasegundo.dev/)
 - [Entrevista completa](https://www.tecnoveste.com.br/desvendando-o-codigo-do-sucesso-a-jornada-de-amanda-segundo-na-neon-e-como-ela-esta-transformando-o-mundo-da-programacao-e-inovacao-no-brasil-por-meio-do-projeto-trechos-de-codigo/)
 - [Texto no Instagram](https://www.instagram.com/p/C14sECwOZbO/?utm_source=ig_web_copy_link)
 
-## Podcast no TI da Depressão
+## Podcast do TI da Depressão
 
 Participei do podcast [@podcastspamtalk](https://www.instagram.com/podcastspamtalk/) do Luan Morais da página [tidadepressao](https://www.instagram.com/tidadepressao).
 
