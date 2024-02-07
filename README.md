@@ -46,4 +46,47 @@ Para o perfil [@amandasegundo.dev](https://www.instagram.com/amandasegundo.dev/)
 - [@herhelloworld](https://www.instagram.com/herhelloworld)
 - [@coding_unicorn](https://www.instagram.com/coding_unicorn)
 
+
+## Notícia na Tecnoveste
+
+<img src="./images/tecnoveste/amanda-noticia-tecnoveste.png"/>
+
+- [Entrevista completa](https://www.tecnoveste.com.br/desvendando-o-codigo-do-sucesso-a-jornada-de-amanda-segundo-na-neon-e-como-ela-esta-transformando-o-mundo-da-programacao-e-inovacao-no-brasil-por-meio-do-projeto-trechos-de-codigo/)
+- [Texto no Instagram](https://www.instagram.com/p/C14sECwOZbO/?utm_source=ig_web_copy_link)
+
+## Podcast no TI da Depressão
+
+Participei do podcast [@podcastspamtalk](https://www.instagram.com/podcastspamtalk/) do Luan Morais da página [tidadepressao](https://www.instagram.com/tidadepressao).
+
+[Live completa aqui](https://www.instagram.com/p/CiRAS7oIeR7/?utm_source=ig_web_copy_link)
+
+## Referências em Liguagens
+
+### GO
+
+- [William Queiroz](https://www.instagram.com/wnqueiroz.dev/)
+- [Ellen Korbes](https://www.youtube.com/@AprendaGo)
+
+### Python
+
+- [Daniel Rodrigues](https://www.linkedin.com/in/morfiga/)
+
+## Philips
+
+Veja como é trabalhar na Philips no perfil [@lifeatphilips](https://www.instagram.com/lifeatphilips/).
+
+<img src="./images/philips/amanda-na-philips.png"/>
+
+## Conhecimentos Hackes
+
+Estudei Segurança da Computação na faculdade de Tecnologia em Análise e Desenvolvimento de Sistemas no Instituto Federal Catarinense, meu professor foi o [Ricardo de la Rocha Ladeira](http://lattes.cnpq.br/6253824471671505).
+
+<img src="./images/ifc/ricardo.delarocha.jpg"/>
+
+## Gostou da Live?
+
+☕️ Compre um café para mim:
+
+PIX: d29ce6e0-7c0d-4fc2-ab12-3f8e1815258a
+
 <img src="./images/eu/amanda-fim-live.png"/>
