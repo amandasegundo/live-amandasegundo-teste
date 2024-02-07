@@ -4,7 +4,7 @@
 
 *Amanda Segundo*
 
-<img src="./images/eu/amanda_anuncio_live.jpg"/>
+<img src="./images/eu/amanda-anuncio-live.png"/>
 
 ## Nina (minha Pet)
 
@@ -37,7 +37,7 @@ Tenho um gosto variado por música, mas últimamente tenho escutado as seguintes
 - [K-Pop](https://music.youtube.com/playlist?list=PLQqx4coIe768etyUTkb8G5-3ajAM9Ezqn&si=Wgdv23WCa74ORfVm)
 - [Lo-Fi](https://music.youtube.com/playlist?list=PLQqx4coIe76-VsYoeHMO18btZSU2vB_YC&si=_9hrL1XwLQTV-dMR)
 
-## Tech Girls favoritas (grigas)
+## Tech Girls favoritas (gringas)
 
 Para o perfil [@amandasegundo.dev](https://www.instagram.com/amandasegundo.dev/) pretendo ter conteúdos mais sérios, profissionais e pessoais e me inspiro nas seguintes profissionais de TI:
 
@@ -46,4 +46,4 @@ Para o perfil [@amandasegundo.dev](https://www.instagram.com/amandasegundo.dev/)
 - [@herhelloworld](https://www.instagram.com/herhelloworld)
 - [@coding_unicorn](https://www.instagram.com/coding_unicorn)
 
-<img src="./images/eu/amanda_fim_live.jpg"/>
+<img src="./images/eu/amanda-fim-live.png"/>
