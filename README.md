@@ -79,7 +79,7 @@ Veja como é trabalhar na Philips no perfil [@lifeatphilips](https://www.instagr
 
 <img src="./images/philips/amanda-na-philips.png"/>
 
-## Conhecimentos Hackes
+## Conhecimentos Hackers
 
 Estudei Segurança da Computação na faculdade de Tecnologia em Análise e Desenvolvimento de Sistemas no Instituto Federal Catarinense, meu professor foi o [Ricardo de la Rocha Ladeira](http://lattes.cnpq.br/6253824471671505).
 
