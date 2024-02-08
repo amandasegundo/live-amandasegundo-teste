@@ -4,11 +4,11 @@
 
 *Amanda Segundo*
 
-<img src="./images/eu/amanda-anuncio-live.png" style="width:300px;"/>
+<img src="./images/eu/amanda-anuncio-live.png" style="width:600px;"/>
 
 ## Nina (minha Pet)
 
-<img src="./images/nina/nina.jpg" style="width:300px;"/>
+<img src="./images/nina/nina.jpg" style="width:600px;"/>
 
 ### Comandos
 
@@ -25,7 +25,7 @@ Gosto de treinar a [Nina](https://www.instagram.com/minhasmeninas.pet) e hoje el
 
 Ela gosta de me ver trabalhando, então dei um notebook para ela me ajudar no trabalho (hahahha).
 
-<img src="./images/nina/nina-e-seu-notebook.jpg" style="width:300px;"/>
+<img src="./images/nina/nina-e-seu-notebook.jpg" style="width:600px;"/>
 
 ## Músicas
 
@@ -60,7 +60,7 @@ Participei do podcast [@podcastspamtalk](https://www.instagram.com/podcastspamta
 
 [Live completa aqui](https://www.instagram.com/p/CiRAS7oIeR7/?utm_source=ig_web_copy_link)
 
-<img src="./images/tidadepressao/amanda-no-podcast-do-ti-da-depressao.png" style="width:300px;"/>
+<img src="./images/tidadepressao/amanda-no-podcast-do-ti-da-depressao.png" style="width:600px;"/>
 
 ## Referências em Liguagens
 
@@ -77,13 +77,13 @@ Participei do podcast [@podcastspamtalk](https://www.instagram.com/podcastspamta
 
 Veja como é trabalhar na Philips no perfil [@lifeatphilips](https://www.instagram.com/lifeatphilips/).
 
-<img src="./images/philips/amanda-na-philips.png" style="width:300px;"/>
+<img src="./images/philips/amanda-na-philips.png" style="width:600px;"/>
 
 ## Conhecimentos Hackers
 
 Estudei Segurança da Computação na faculdade de Tecnologia em Análise e Desenvolvimento de Sistemas no Instituto Federal Catarinense, meu professor foi o [Ricardo de la Rocha Ladeira](http://lattes.cnpq.br/6253824471671505).
 
-<img src="./images/ifc/ricardo.delarocha.jpg" style="width:300px;"/>
+<img src="./images/ifc/ricardo.delarocha.jpg" style="width:600px;"/>
 
 ## Gostou da Live?
 
@@ -91,4 +91,4 @@ Estudei Segurança da Computação na faculdade de Tecnologia em Análise e Dese
 
 PIX: d29ce6e0-7c0d-4fc2-ab12-3f8e1815258a
 
-<img src="./images/eu/amanda-fim-live.png" style="width:300px;"/>
+<img src="./images/eu/amanda-fim-live.png" style="width:600px;"/>
