@@ -25,7 +25,7 @@ Gosto de treinar a [Nina](https://www.instagram.com/minhasmeninas.pet) e hoje el
 
 Ela gosta de me ver trabalhando, então dei um notebook para ela me ajudar no trabalho (hahahha).
 
-<img src="./images/nina/nina-e-seu-notebook.jpg"/>
+<img src="./images/nina/nina-e-seu-notebook.jpg" style="width:300px;"/>
 
 ## Músicas
 
